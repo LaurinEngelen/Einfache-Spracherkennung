@@ -1,0 +1,50 @@
+1. Wie wirkt die Differentiation auf das Spektrum eines Signals?
+
+2. Wie funktioniert die Faltung, um das Ausgangssignal eines Systems zur Zeit t zu 
+berechnen?
+
+3. Wie sieht der Amplitudengang eines Differenzierers aus?
+
+4. Wie wirkt ein lineares System auf das Spektrum eines Signals?
+
+5. Was ist ein Bode-Diagramm?
+
+6. Wie verändert der Phasengang eines linearen Systems die Phase des Eingangssignals?
+
+7. Wievielen Dezibel entspricht ein Verstärkungsfaktor von 100?
+
+8. Was ist Filterung?
+
+9. Welche Eigenschaften haben ideale frequenzselektive Filter im Zeitbereich?
+
+10. Wie muss man den Frequenzgang eines Filters im Spektralraum verändern, damit sich die
+Impulsantwort in der Zeitdomäne verschiebt?
+
+11. Was ist das Faltungsintegral?
+
+12. Wie kann man einen Vokal in einem Sprachsignal erkennen?
+
+13. Was ist ein Phonem?
+
+14. Wie funktioniert die Kurzzeit-Fouriertransformation?
+
+15. Was muss man bei der Wahl des Fensters bei der Kurzzeit-Fouriertransformation 
+beachten?
+
+16. Wie funktioniert ein Nächste-Nachbar-Klassifikator?
+
+17. Wie unterscheiden sich Korrelation und Kovarianz als Ähnlichkeitsmaß?
+
+18. Warum verwendet man meist nichtideale Filter mit welligen Durchlass- und 
+Sperrbereichen und einem Übergangsbereich statt idealen frequenzselektiven Filtern?
+
+19. Was sind Formanten?
+
+20. Wie wird die momentane Frequenz eines akustischen Eingangssignals in der 
+Basilarmembran des Innenohrs codiert?
+
+21. Was ist eine Schwebung?
+
+22. Ein System liefert für eine Sinusschwingung als Eingangssignal eine doppelt so große
+Sinusschwingung gleicher Frequenz als Ausgangssignal, das um 10 ms verzögert ist. Um 
+welche Art von System handelt es sich?
